@@ -1,0 +1,5 @@
+server.port=9090
+#spring.cloud.config.server.native.searchLocations=file://${user.home}/MicroService/centralProperties/
+spring.cloud.config.server.native.searchLocations=file://C:/MicroService/centralProperties/
+#spring.cloud.config.server.git.uri=file://${user.home}/MicroService/centralProperties
+SPRING_PROFILES_ACTIVE=native

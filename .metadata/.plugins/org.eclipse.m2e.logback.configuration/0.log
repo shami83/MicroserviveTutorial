@@ -1,0 +1,175 @@
+2018-02-17 12:04:43,672 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MicroserviceConfigServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/MicroserviceConfigServer/pom.xml.
+2018-02-17 12:04:48,572 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceConfigServer/src/main/java
+2018-02-17 12:04:48,573 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfigServer/src/main/resources
+2018-02-17 12:04:48,574 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfigServer/src/main/resources
+2018-02-17 12:04:48,575 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceConfigServer/src/test/java
+2018-02-17 12:04:48,874 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2018-02-17 12:04:51,681 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:04:51,690 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-17 12:04:51,691 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-17 12:04:51,732 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:04:51,732 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/MicroserviceConfigServer/src/test/resources
+2018-02-17 12:05:07,991 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeEurekaServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeEurekaServer/pom.xml.
+2018-02-17 12:05:10,770 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeEurekaServer/src/main/java
+2018-02-17 12:05:10,770 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeEurekaServer/src/main/resources
+2018-02-17 12:05:10,771 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeEurekaServer/src/main/resources
+2018-02-17 12:05:10,772 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeEurekaServer/src/test/java
+2018-02-17 12:05:11,001 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-02-17 12:05:13,099 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:05:13,100 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-17 12:05:13,101 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-17 12:05:13,183 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:05:13,184 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeEurekaServer/src/test/resources
+2018-02-17 12:05:31,234 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeSearchService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeSearchService/pom.xml.
+2018-02-17 12:05:33,174 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeSearchService/src/main/java
+2018-02-17 12:05:33,175 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeSearchService/src/main/resources
+2018-02-17 12:05:33,176 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeSearchService/src/main/resources
+2018-02-17 12:05:33,177 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeSearchService/src/test/java
+2018-02-17 12:05:33,305 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-02-17 12:05:34,915 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:05:34,915 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-17 12:05:34,916 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-17 12:05:34,924 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:05:34,925 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeSearchService/src/test/resources
+2018-02-17 12:05:54,620 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeDashBoardService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeDashBoardService/pom.xml.
+2018-02-17 12:05:56,084 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeDashBoardService/src/main/java
+2018-02-17 12:05:56,084 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeDashBoardService/src/main/resources
+2018-02-17 12:05:56,085 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeDashBoardService/src/main/resources
+2018-02-17 12:05:56,086 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeDashBoardService/src/test/java
+2018-02-17 12:05:56,214 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-02-17 12:05:57,733 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:05:57,734 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-17 12:05:57,735 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-17 12:05:57,742 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:05:57,742 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeDashBoardService/src/test/resources
+2018-02-17 12:06:20,510 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeZuulService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeZuulService/pom.xml.
+2018-02-17 12:06:22,058 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeZuulService/src/main/java
+2018-02-17 12:06:22,059 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeZuulService/src/main/resources
+2018-02-17 12:06:22,059 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EmployeeZuulService/src/main/resources
+2018-02-17 12:06:22,060 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeZuulService/src/test/java
+2018-02-17 12:06:22,157 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-02-17 12:06:23,380 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:06:23,381 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-17 12:06:23,381 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-17 12:06:23,443 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-17 12:06:23,443 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeZuulService/src/test/resources
+2018-02-18 11:21:47,821 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeDashBoardService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeDashBoardService/pom.xml.
+2018-02-18 11:21:50,798 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeEurekaServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeEurekaServer/pom.xml.
+2018-02-18 11:21:51,165 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeSearchService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeSearchService/pom.xml.
+2018-02-18 11:21:51,576 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeZuulService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeZuulService/pom.xml.
+2018-02-18 11:21:52,212 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MicroserviceConfigServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/MicroserviceConfigServer/pom.xml.
+2018-02-18 11:21:59,296 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:21:59,314 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-18 11:21:59,316 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-18 11:21:59,365 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:21:59,366 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeDashBoardService/src/test/resources
+2018-02-18 11:22:01,530 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:01,531 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-18 11:22:01,538 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-18 11:22:01,559 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:01,560 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeEurekaServer/src/test/resources
+2018-02-18 11:22:03,047 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:03,048 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-18 11:22:03,049 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-18 11:22:03,053 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:03,053 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeSearchService/src/test/resources
+2018-02-18 11:22:04,135 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:04,136 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-18 11:22:04,137 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-18 11:22:04,146 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:04,147 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeZuulService/src/test/resources
+2018-02-18 11:22:05,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:05,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-18 11:22:05,067 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-18 11:22:05,088 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-18 11:22:05,088 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/MicroserviceConfigServer/src/test/resources
+2018-02-19 22:59:20,415 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeDashBoardService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeDashBoardService/pom.xml.
+2018-02-19 22:59:25,928 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeEurekaServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeEurekaServer/pom.xml.
+2018-02-19 22:59:26,456 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeSearchService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeSearchService/pom.xml.
+2018-02-19 22:59:26,996 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeZuulService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeZuulService/pom.xml.
+2018-02-19 22:59:27,665 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MicroserviceConfigServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/MicroserviceConfigServer/pom.xml.
+2018-02-19 22:59:38,791 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:38,811 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 22:59:38,814 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 22:59:38,874 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:38,874 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeDashBoardService/src/test/resources
+2018-02-19 22:59:43,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:43,268 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 22:59:43,268 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 22:59:43,305 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:43,305 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeEurekaServer/src/test/resources
+2018-02-19 22:59:45,475 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:45,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 22:59:45,477 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 22:59:45,503 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:45,503 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeSearchService/src/test/resources
+2018-02-19 22:59:46,783 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:46,783 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 22:59:46,784 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 22:59:46,788 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:46,788 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeZuulService/src/test/resources
+2018-02-19 22:59:47,833 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:47,833 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-19 22:59:47,834 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-19 22:59:47,852 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-19 22:59:47,852 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/MicroserviceConfigServer/src/test/resources
+2018-03-01 11:03:52,487 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeDashBoardService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeDashBoardService/pom.xml.
+2018-03-01 11:03:58,584 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeEurekaServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeEurekaServer/pom.xml.
+2018-03-01 11:03:59,226 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeSearchService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeSearchService/pom.xml.
+2018-03-01 11:03:59,620 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeZuulService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeZuulService/pom.xml.
+2018-03-01 11:04:00,552 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MicroserviceConfigServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/MicroserviceConfigServer/pom.xml.
+2018-03-01 11:04:13,730 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:13,749 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-01 11:04:13,751 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-01 11:04:13,819 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:13,819 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeDashBoardService/src/test/resources
+2018-03-01 11:04:21,378 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:21,379 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-01 11:04:21,379 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-01 11:04:21,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:21,397 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeEurekaServer/src/test/resources
+2018-03-01 11:04:23,428 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:23,429 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-01 11:04:23,430 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-01 11:04:23,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:23,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeSearchService/src/test/resources
+2018-03-01 11:04:25,045 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:25,046 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-01 11:04:25,047 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-01 11:04:25,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:25,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeZuulService/src/test/resources
+2018-03-01 11:04:26,212 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:26,213 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-01 11:04:26,214 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-01 11:04:26,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-01 11:04:26,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/MicroserviceConfigServer/src/test/resources
+2018-03-03 11:33:43,593 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeDashBoardService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeDashBoardService/pom.xml.
+2018-03-03 11:33:49,520 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeEurekaServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeEurekaServer/pom.xml.
+2018-03-03 11:33:50,107 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeSearchService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeSearchService/pom.xml.
+2018-03-03 11:33:50,964 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:EmployeeZuulService:0.0.1-SNAPSHOT @ /home/shamik/MicroService/EmployeeZuulService/pom.xml.
+2018-03-03 11:33:52,433 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:MicroserviceConfigServer:0.0.1-SNAPSHOT @ /home/shamik/MicroService/MicroserviceConfigServer/pom.xml.
+2018-03-03 11:33:58,594 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:33:58,631 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-03 11:33:58,635 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-03 11:33:58,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:33:58,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeDashBoardService/src/test/resources
+2018-03-03 11:34:02,338 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:02,339 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-03 11:34:02,342 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-03 11:34:02,410 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:02,410 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeEurekaServer/src/test/resources
+2018-03-03 11:34:05,185 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:05,185 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-03 11:34:05,186 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-03 11:34:05,231 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:05,231 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeSearchService/src/test/resources
+2018-03-03 11:34:09,197 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:09,198 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-03 11:34:09,198 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-03 11:34:09,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:09,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/EmployeeZuulService/src/test/resources
+2018-03-03 11:34:10,600 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:10,601 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-03 11:34:10,602 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-03 11:34:10,620 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-03 11:34:10,621 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/shamik/MicroService/MicroserviceConfigServer/src/test/resources
